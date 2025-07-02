@@ -1,1 +1,4 @@
 # TASK-6_ELEVATELAB_INTERN
+In this task, I implemented K-Nearest Neighbors (KNN) classification using Scikit-learn on a real-world Voice Gender Recognition dataset. I began by preprocessing the data through label encoding and feature normalization using StandardScaler. I experimented with different values of K to observe changes in accuracy and evaluated the model using both the accuracy score and a confusion matrix.
+
+To enhance understanding and interpretation, I included multiple visualizations: a pairplot of selected features, a PCA-based 2D visualization of the data, a confusion matrix heatmap, and an accuracy vs. K-value plot. These visual insights helped me better understand how KNN works and how it performs under different configurations, especially in distinguishing male and female voices.
